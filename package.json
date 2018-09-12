@@ -1,8 +1,8 @@
 {
   "scripts": {
-    "demo": "node hello.js"
+    "demo": "npx json-server --watch db.json"
   },
-  "dependencies": {
-    "lodash": "^4.17.10"
+  "dev-dependencies": {
+    "json-server": "^0.14.0"
   }
 }
