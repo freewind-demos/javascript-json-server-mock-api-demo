@@ -1,8 +1,8 @@
 {
-    "scripts": {
-        "start": "npx json-server --watch db.json"
-    },
-    "dev-dependencies": {
-        "json-server": "^0.14.0"
-    }
+  "scripts": {
+    "start": "npx json-server --watch db.json"
+  },
+  "dev-dependencies": {
+    "json-server": "^0.14.0"
+  }
 }
